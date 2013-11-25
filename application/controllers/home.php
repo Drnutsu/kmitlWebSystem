@@ -9,6 +9,7 @@ class Home extends CI_Controller {
     if($this->session->userdata('logged_in')){
 	  $session_data = $this->session->userdata('logged_in');
 	  $data['username'] = $session_data['username'];
+      $this->load->view('template/header',$data);
 	  $this->load->view('home_view',$data);
 	}else{
 	  redirect('login','refresh');

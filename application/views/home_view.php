@@ -3,8 +3,8 @@
   <title>Success Login</title>
  </head>
  <body>
-    <h3>Your form was successfully submitted!</h3>
-	username: <?php echo $username; ?>
-    <p><a href="<?php echo site_url("home/logout"); ?>">Logout</a></p>
+    <div class="col-lg-8 col-lg-offset-2 well" style="margin-top: 10%;">
+        <h3>Your form was successfully submitted!</h3>
+    </div>
  </body>
 </html>
