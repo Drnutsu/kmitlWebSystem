@@ -13,8 +13,9 @@
     <script src="<?php echo base_url(); ?>/media/js/bootstrap.min.js"></script>
 </head>
 <body>
-   <nav class="navbar navbar-default navbar-fixed-top" role="navigaiton">
-       <li class="navbar-text"><a href="#" >Home</a></li>
+   <nav class="navbar navbar-default " role="navigaiton">
+       <li class="navbar-text"><a href="<?php echo site_url("home"); ?>" >Home</a></li>
+       <li class="navbar-text"><a href="<?php echo site_url("news"); ?>" >News</a></li>
        <a class="btn btn-default navbar-btn btn-danger navbar-right" href="<?php echo site_url("home/logout"); ?>">Logout</a>
        <p class="navbar-text navbar-right">ผู้ใช้งาน: <?php echo $username ?></p>
    </nav>

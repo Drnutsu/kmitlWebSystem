@@ -3,7 +3,7 @@
   <title>Success Login</title>
  </head>
  <body>
-    <div class="col-lg-8 col-lg-offset-2 well" style="margin-top: 10%;">
+    <div class="col-md-8 col-md-offset-2 well" >
         <h3>Your form was successfully submitted!</h3>
     </div>
  </body>
