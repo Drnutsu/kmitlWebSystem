@@ -2,7 +2,7 @@
   class Login_model extends CI_Model {
 	
 	public function login_check($username,$password){
-	   $this->db->select('id, username, password');
+	   $this->db->select('user_id, username, password');
 	   $this->db->from('user_data');
 	   $this->db->where('username',$username);
 	   $this->db->where('password',$password);
