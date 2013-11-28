@@ -41,6 +41,8 @@
 $route['default_controller'] = "home";
 $route['404_override'] = '';
 $route['news'] = 'News';
+$route['json'] = 'News/json';
+
 
 
 /* End of file routes.php */

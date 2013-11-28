@@ -29,4 +29,9 @@ class News extends CI_Controller{
         }
 
     }
+
+    public function json(){
+        $data = $this->news_model->get_news();
+        echo json_encode($data);
+    }
 } 

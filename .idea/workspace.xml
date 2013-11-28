@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a065276e-9882-4370-9c85-d2a6584591c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/login_model.php" afterPath="$PROJECT_DIR$/application/models/login_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/verifylogin.php" afterPath="$PROJECT_DIR$/application/controllers/verifylogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/News.php" afterPath="$PROJECT_DIR$/application/controllers/News.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
     </list>
     <ignored path="login.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,10 +80,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verifylogin.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="verifylogin.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/verifylogin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="18" selection-start="990" selection-end="990" vertical-scroll-proportion="0.61416185" vertical-offset="153" max-vertical-offset="884">
+            <state line="27" column="48" selection-start="759" selection-end="759" vertical-scroll-proportion="-10.269231" vertical-offset="192" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="News.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/News.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="32" selection-start="977" selection-end="977" vertical-scroll-proportion="0.71242774" vertical-offset="0" max-vertical-offset="692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="38" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-19.76923" vertical-offset="166" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -110,16 +128,16 @@
       <list>
         <option value="$PROJECT_DIR$/application/views/template/footer.php" />
         <option value="$PROJECT_DIR$/application/views/news.html" />
-        <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/views/template/header.php" />
         <option value="$PROJECT_DIR$/application/views/home_view.php" />
         <option value="$PROJECT_DIR$/application/controllers/home.php" />
-        <option value="$PROJECT_DIR$/application/controllers/News.php" />
         <option value="$PROJECT_DIR$/application/views/news.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/models/news_model.php" />
         <option value="$PROJECT_DIR$/application/models/login_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/verifylogin.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/controllers/News.php" />
       </list>
     </option>
   </component>
@@ -222,6 +240,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,13 +366,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="29" selection-start="2624" selection-end="2624" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="6256">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="2" selection-start="2536" selection-end="2536" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
@@ -373,11 +402,6 @@
         <state line="17" column="1" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2057" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="19" selection-start="1481" selection-end="1481" vertical-scroll-proportion="-14.961538" vertical-offset="325" max-vertical-offset="884" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="43" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="527">
@@ -411,9 +435,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/news_model.php">
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="44" selection-start="454" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="425">
+        <state line="40" column="38" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-19.76923" vertical-offset="166" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
@@ -427,7 +451,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/verifylogin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="18" selection-start="990" selection-end="990" vertical-scroll-proportion="0.61416185" vertical-offset="153" max-vertical-offset="884">
+        <state line="27" column="48" selection-start="759" selection-end="759" vertical-scroll-proportion="-10.269231" vertical-offset="192" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/news_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="44" selection-start="454" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="32" selection-start="977" selection-end="977" vertical-scroll-proportion="0.71242774" vertical-offset="0" max-vertical-offset="692">
           <folding />
         </state>
       </provider>
