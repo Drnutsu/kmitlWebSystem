@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a065276e-9882-4370-9c85-d2a6584591c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/News.php" afterPath="$PROJECT_DIR$/application/controllers/News.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +55,7 @@
       <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="29" selection-start="2624" selection-end="2624" vertical-scroll-proportion="-8.5" vertical-offset="1173" max-vertical-offset="6256">
+            <state line="82" column="29" selection-start="2624" selection-end="2624" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="6256">
               <folding />
             </state>
           </provider>
@@ -65,7 +64,7 @@
       <file leaf-file-name="news_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/news_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="44" selection-start="454" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="425">
+            <state line="17" column="33" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -74,7 +73,7 @@
       <file leaf-file-name="login_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/login_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="442">
+            <state line="5" column="31" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
@@ -83,7 +82,7 @@
       <file leaf-file-name="verifylogin.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/verifylogin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="48" selection-start="759" selection-end="759" vertical-scroll-proportion="-10.269231" vertical-offset="192" max-vertical-offset="884">
+            <state line="28" column="48" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
@@ -92,7 +91,7 @@
       <file leaf-file-name="News.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/News.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="32" selection-start="977" selection-end="977" vertical-scroll-proportion="0.71242774" vertical-offset="0" max-vertical-offset="692">
+            <state line="36" column="2" selection-start="986" selection-end="986" vertical-scroll-proportion="0.84944236" vertical-offset="70" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -101,7 +100,7 @@
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="38" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-19.76923" vertical-offset="166" max-vertical-offset="918">
+            <state line="42" column="24" selection-start="1486" selection-end="1486" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -145,8 +144,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -183,84 +182,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -268,12 +189,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="vcs.Git" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13/bin/git.exe" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="PHP Script.header.php">
     <configuration default="false" name="header.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/views/template/header.php">
@@ -330,15 +251,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249375" sideWeight="0.67069894" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.67069894" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -423,7 +344,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="29" selection-start="2624" selection-end="2624" vertical-scroll-proportion="-8.5" vertical-offset="1173" max-vertical-offset="6256">
+        <state line="82" column="29" selection-start="2624" selection-end="2624" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="6256">
           <folding />
         </state>
       </provider>
@@ -437,35 +358,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="38" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-19.76923" vertical-offset="166" max-vertical-offset="918">
+        <state line="42" column="24" selection-start="1486" selection-end="1486" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/login_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="442">
+        <state line="5" column="31" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="442">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/verifylogin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="48" selection-start="759" selection-end="759" vertical-scroll-proportion="-10.269231" vertical-offset="192" max-vertical-offset="884">
+        <state line="28" column="48" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/news_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="44" selection-start="454" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="425">
+        <state line="17" column="33" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/News.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="32" selection-start="977" selection-end="977" vertical-scroll-proportion="0.71242774" vertical-offset="0" max-vertical-offset="692">
+        <state line="36" column="2" selection-start="986" selection-end="986" vertical-scroll-proportion="0.84944236" vertical-offset="70" max-vertical-offset="629">
           <folding />
         </state>
       </provider>

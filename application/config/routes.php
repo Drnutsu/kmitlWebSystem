@@ -41,7 +41,9 @@
 $route['default_controller'] = "home";
 $route['404_override'] = '';
 $route['news'] = 'News';
-$route['json'] = 'News/json';
+$route['json'] = 'News/json/10';
+$route['json/(:num)'] = 'News/json/$1';
+$route['check/(:num)'] = 'News/checkMax/$1';
 
 
 

@@ -30,8 +30,22 @@ class News extends CI_Controller{
 
     }
 
-    public function json(){
-        $data = $this->news_model->get_news();
-        echo json_encode($data);
+    public function json($number){
+        $data = $this->news_model->get_news_json(FALSE,$number);
+        $json = json_encode($data);
+        echo $json;
+        echo "\n";
     }
+    
+    public function checkMax($id){
+        $data = $this->news_model->check_max();
+        $max = $data[0]['id'];
+        if($id != $max){
+            $data = $this->news_model->get_news_json(FALSE,$max);
+            echo json_encode($data);
+        }else{
+            echo "news";
+        }
+    }
+        
 } 
